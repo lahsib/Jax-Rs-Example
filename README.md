@@ -1,3 +1,3 @@
 # Jax-Rs-Example
 
-This is a simple jax-rs example. In this application we can insert the records and the records are displayed. And AJaX is implemented to get the json file from the server.
+This is the sample project done to implement the restful web services. In this application we can insert the records and the records are displayed using the restful services.
